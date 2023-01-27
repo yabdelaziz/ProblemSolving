@@ -2,27 +2,48 @@ package LeetCode;
 
 public class LongestCommonPrefix14 {
 
-    static String longestCommonPrefix(String[] strs) {
+    static int getSmallestStringLength(String[] strs) {
 
         int index = 0;
 
-        for (int i = 0; i < strs[0].length(); i++) {
-            if (strs[0].charAt(i) == strs[1].charAt(i)) {
-                index++;
+        for (int i = 0; i < strs.length - 1; i++) {
+            if (strs[index].length() <= strs[i + 1].length()) {
+                continue;
             } else {
-                break;
+                index = i + 1;
             }
+        }
+
+        return index;
+    }
+
+    static String longestCommonPrefix(String[] strs) {
+
+        String prefix = "";
+        int smallestStringLength = getSmallestStringLength(strs);
+
+        for (int i = 0; i < strs[smallestStringLength].length(); i++) {
+            for (String str : strs) {
+
+                if (strs[smallestStringLength].charAt(i) == str.charAt(i)) {
+                    continue;
+                } else {
+                    return prefix;
+                }
+            }
+            prefix += strs[smallestStringLength].charAt(i);
 
         }
 
-        return index == 0 ? "" : strs[0].substring(0, index);
+        return strs.length == 1 ? strs[0] : prefix;
+
     }
 
     public static void main(String[] args) {
 
-        String strs[] = {"dog","racecar","car"};
+        String[] strs = {"ab"};
 
-        String strs2[] = {"flower","flow","flight"};
+        String[] strs2 = {"flower", "flow", "reflight"};
 
         System.out.println(longestCommonPrefix(strs));
         System.out.println(longestCommonPrefix(strs2));
