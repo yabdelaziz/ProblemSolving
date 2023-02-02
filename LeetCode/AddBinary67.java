@@ -43,7 +43,6 @@ public class AddBinary67 {
 //
 //        return sum.charAt(0) == '0' && sum.length() > 1 ? sum.substring(1) : sum;
 
-
         int carry = 0, temp1 = 0, temp2 = 0, totalTemps = 0, length = Math.max(a.length(), b.length());
         String sum = "";
         int aLength = a.length(), bLength = b.length();
