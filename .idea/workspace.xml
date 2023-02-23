@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4bc3764f-4547-408a-83f8-39b9c1b37f69" name="Changes" comment="New Solutions on LeetCode">
       <change afterPath="$PROJECT_DIR$/LeetCode/ExcelSheetColumnTitle168.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/IsomorphicStrings205.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/ValidAnagram242.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +61,7 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.IsomorphicStrings205">
+  <component name="RunManager" selected="Application.ValidAnagram242">
     <configuration name="ExcelSheetColumnNumber171" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.ExcelSheetColumnNumber171" />
       <module name="ProblemSolving" />
@@ -110,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidPalindrome125" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.ValidPalindrome125" />
+    <configuration name="ValidAnagram242" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.ValidAnagram242" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -139,18 +139,18 @@
     <list>
       <item itemvalue="Application.Unnamed" />
       <item itemvalue="Application.IsomorphicStrings205" />
+      <item itemvalue="Application.ValidAnagram242" />
       <item itemvalue="Application.ExcelSheetColumnNumber171" />
       <item itemvalue="Application.test" />
       <item itemvalue="Application.ExcelSheetColumnTitle168" />
-      <item itemvalue="Application.ValidPalindrome125" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidAnagram242" />
         <item itemvalue="Application.IsomorphicStrings205" />
         <item itemvalue="Application.ExcelSheetColumnNumber171" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.ExcelSheetColumnTitle168" />
-        <item itemvalue="Application.ValidPalindrome125" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677176134508</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="New Solutions on LeetCode">
+      <created>1677182855815</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677182855815</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
