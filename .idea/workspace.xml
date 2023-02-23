@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bc3764f-4547-408a-83f8-39b9c1b37f69" name="Changes" comment="New Solutions on LeetCode">
-      <change afterPath="$PROJECT_DIR$/LeetCode/ValidPalindrome125.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/ExcelSheetColumnNumber171.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/ExcelSheetColumnTitle168.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/AddBinary67.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/AddBinary67.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +61,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ValidPalindrome125">
+  <component name="RunManager" selected="Application.ExcelSheetColumnNumber171">
     <configuration name="AddBinary67" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.AddBinary67" />
       <module name="ProblemSolving" />
@@ -75,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LengthOfLastWord58" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.LengthOfLastWord58" />
+    <configuration name="ExcelSheetColumnNumber171" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.ExcelSheetColumnNumber171" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestCommonPrefix14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.LongestCommonPrefix14" />
+    <configuration name="ExcelSheetColumnTitle168" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.ExcelSheetColumnTitle168" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidParentheses20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.ValidParentheses20" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.test" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -138,19 +138,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.ExcelSheetColumnNumber171" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.ExcelSheetColumnTitle168" />
       <item itemvalue="Application.ValidPalindrome125" />
       <item itemvalue="Application.AddBinary67" />
-      <item itemvalue="Application.LengthOfLastWord58" />
-      <item itemvalue="Application.LongestCommonPrefix14" />
-      <item itemvalue="Application.ValidParentheses20" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExcelSheetColumnNumber171" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.ExcelSheetColumnTitle168" />
         <item itemvalue="Application.ValidPalindrome125" />
         <item itemvalue="Application.AddBinary67" />
-        <item itemvalue="Application.LengthOfLastWord58" />
-        <item itemvalue="Application.ValidParentheses20" />
-        <item itemvalue="Application.LongestCommonPrefix14" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675196222184</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="New Solutions on LeetCode">
+      <created>1675363220448</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675363220448</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,6 +232,16 @@
           <url>file://$PROJECT_DIR$/LeetCode/LongestCommonPrefix14.java</url>
           <line>43</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/ExcelSheetColumnNumber171.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/ExcelSheetColumnNumber171.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/LeetCode/LongestCommonPrefix14.java</url>
