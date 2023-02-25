@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4bc3764f-4547-408a-83f8-39b9c1b37f69" name="Changes" comment="New Solutions on LeetCode">
       <change afterPath="$PROJECT_DIR$/LeetCode/ExcelSheetColumnTitle168.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/ReverseString344.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/WordPattern290.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,17 +51,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
-  <component name="RunManager" selected="Application.ReverseString344">
+}]]></component>
+  <component name="RunManager" selected="Application.WordPattern290">
     <configuration name="ExcelSheetColumnNumber171" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.ExcelSheetColumnNumber171" />
       <module name="ProblemSolving" />
@@ -123,8 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.test" />
+    <configuration name="WordPattern290" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.WordPattern290" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -138,19 +141,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.WordPattern290" />
       <item itemvalue="Application.ReverseString344" />
       <item itemvalue="Application.IsomorphicStrings205" />
       <item itemvalue="Application.ValidAnagram242" />
       <item itemvalue="Application.ExcelSheetColumnNumber171" />
-      <item itemvalue="Application.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WordPattern290" />
         <item itemvalue="Application.ReverseString344" />
         <item itemvalue="Application.ValidAnagram242" />
         <item itemvalue="Application.IsomorphicStrings205" />
         <item itemvalue="Application.ExcelSheetColumnNumber171" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677188126539</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="New Solutions on LeetCode">
+      <created>1677265452460</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677265452460</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
