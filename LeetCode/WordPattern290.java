@@ -7,6 +7,7 @@ public class WordPattern290 {
 
     public static boolean wordPattern(String pattern, String s) {
 
+
         Map<String, String> patternMapper = new HashMap<>();
 
         String[] splittedString = s.split(" ");
