@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bc3764f-4547-408a-83f8-39b9c1b37f69" name="Changes" comment="New Solutions on LeetCode">
+      <change afterPath="$PROJECT_DIR$/LeetCode/BinaryTreePaths257.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode/WordPattern290.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,9 +66,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindTheIndexOfTheFirstOccurrenceInAString">
-    <configuration name="FindTheIndexOfTheFirstOccurrenceInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.FindTheIndexOfTheFirstOccurrenceInAString" />
+  <component name="RunManager" selected="Application.BinaryTreePaths257">
+    <configuration name="BinaryTreePaths257" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.BinaryTreePaths257" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsomorphicStrings205" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.IsomorphicStrings205" />
+    <configuration name="FindTheIndexOfTheFirstOccurrenceInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.FindTheIndexOfTheFirstOccurrenceInAString" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -141,19 +143,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.BinaryTreePaths257" />
       <item itemvalue="Application.FindTheIndexOfTheFirstOccurrenceInAString" />
       <item itemvalue="Application.WordPattern290" />
       <item itemvalue="Application.ReverseString344" />
-      <item itemvalue="Application.IsomorphicStrings205" />
       <item itemvalue="Application.ValidAnagram242" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinaryTreePaths257" />
         <item itemvalue="Application.FindTheIndexOfTheFirstOccurrenceInAString" />
         <item itemvalue="Application.WordPattern290" />
         <item itemvalue="Application.ReverseString344" />
         <item itemvalue="Application.ValidAnagram242" />
-        <item itemvalue="Application.IsomorphicStrings205" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684317510116</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="New Solutions on LeetCode">
+      <created>1684317841340</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1684317841340</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,23 +294,15 @@
           <line>43</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/LeetCode/LongestCommonPrefix14.java</url>
-          <line>19</line>
-          <properties class="LeetCode.LongestCommonPrefix14" method="longestCommonPrefix">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="5" />
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/BinaryTreePaths257.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/LeetCode/LengthOfLastWord58.java</url>
-          <line>4</line>
-          <properties class="LeetCode.LengthOfLastWord58" method="lengthOfLastWord">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="16" />
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/BinaryTreePaths257.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
