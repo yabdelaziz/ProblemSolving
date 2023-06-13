@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bc3764f-4547-408a-83f8-39b9c1b37f69" name="Changes" comment="New Solutions on LeetCode">
-      <change afterPath="$PROJECT_DIR$/LeetCode/ReverseVowelsOfAString345.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/TwoSum1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode/WordPattern290.java" beforeDir="false" />
     </list>
@@ -66,7 +66,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReverseVowelsOfAString345">
+  <component name="RunManager" selected="Application.TwoSum1">
     <configuration name="BinaryTreePaths257" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.BinaryTreePaths257" />
       <module name="ProblemSolving" />
@@ -93,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString344" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.ReverseString344" />
+    <configuration name="ReverseVowelsOfAString345" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.ReverseVowelsOfAString345" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseVowelsOfAString345" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.ReverseVowelsOfAString345" />
+    <configuration name="TwoSum1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.TwoSum1" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -144,18 +144,18 @@
     <list>
       <item itemvalue="Application.Unnamed" />
       <item itemvalue="Application.ReverseVowelsOfAString345" />
+      <item itemvalue="Application.TwoSum1" />
       <item itemvalue="Application.BinaryTreePaths257" />
       <item itemvalue="Application.FindTheIndexOfTheFirstOccurrenceInAString" />
       <item itemvalue="Application.WordPattern290" />
-      <item itemvalue="Application.ReverseString344" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoSum1" />
         <item itemvalue="Application.ReverseVowelsOfAString345" />
         <item itemvalue="Application.BinaryTreePaths257" />
         <item itemvalue="Application.FindTheIndexOfTheFirstOccurrenceInAString" />
         <item itemvalue="Application.WordPattern290" />
-        <item itemvalue="Application.ReverseString344" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685455733159</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="New Solutions on LeetCode">
+      <created>1686423051708</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1686423051708</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
