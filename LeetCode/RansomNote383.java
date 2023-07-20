@@ -6,7 +6,6 @@ import java.util.Map;
 public class RansomNote383 {
 
     public static boolean canConstruct(String ransomNote, String magazine) {
-
         Map<String, Integer> ransomNoteMap = new LinkedHashMap<>();
         Map<String, Integer> magazineMap = new LinkedHashMap<>();
         Integer ransomNoteCounter = 0, magazineCounter = 0;
