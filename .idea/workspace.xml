@@ -4,90 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bc3764f-4547-408a-83f8-39b9c1b37f69" name="Changes" comment="New Solutions on LeetCode">
+    <list default="true" id="4bc3764f-4547-408a-83f8-39b9c1b37f69" name="Changes" comment="New Solutions">
+      <change afterPath="$PROJECT_DIR$/leetcode/IsSubsequence392.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AAddingDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AAddingDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AAmusingJoke.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AAmusingJoke.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AArrivaloftheGeneral.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AArrivaloftheGeneral.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/ABeautifulMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/ABeautifulMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/ABeautifulYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/ABeautifulYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/ABicycleChain.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/ABicycleChain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/ABit.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/ABit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/ABoyorGirl.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/ABoyorGirl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/ABusinesstrip.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/ABusinesstrip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/ACarrotCakes.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/ACarrotCakes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AChatRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AChatRoom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/ACupboards.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/ACupboards.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/ADZYLovesChessboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/ADZYLovesChessboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/ADimaandFriends.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/ADimaandFriends.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/ADragons.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/ADragons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/ADrinks.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/ADrinks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/ADubstep.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/ADubstep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AEffectiveApproach.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AEffectiveApproach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AEvenOdds.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AEvenOdds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AFootball.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AFootball.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AFootball2.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AFootball2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AHQ9.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AHQ9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AHelpfulMaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AHelpfulMaths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AHexadecimalsTheorem.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AHexadecimalsTheorem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AIloveusername.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AIloveusername.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AInsomniaCure.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AInsomniaCure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AIsyourhorseshoeontheotherhoof.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AIsyourhorseshoeontheotherhoof.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AJeffandDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AJeffandDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AJzzhuandChildren.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AJzzhuandChildren.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/ALightsOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/ALightsOut.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/ALittleElephantandFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/ALittleElephantandFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/ALittleElephantandRozdil.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/ALittleElephantandRozdil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AMagicNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AMagicNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/ANearlyLuckyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/ANearlyLuckyNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/APanoramixsPrediction.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/APanoramixsPrediction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AParallelepiped.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AParallelepiped.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/APerfectPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/APerfectPermutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/APetrandBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/APetrandBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/APetyaandStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/APetyaandStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/APuzzles.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/APuzzles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AReconnaissance2.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AReconnaissance2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/ASoftDrinking.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/ASoftDrinking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AStonesontheTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AStonesontheTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AStringTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AStringTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/ASupercentralPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/ASupercentralPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/ASystemofEquations.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/ASystemofEquations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/ATeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/ATeam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AThenumberofpositions.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AThenumberofpositions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/ATram.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/ATram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/ATranslation.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/ATranslation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AUltraFastMathematician.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AUltraFastMathematician.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AWayTooLongWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AWayTooLongWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AWordCapitalization.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AWordCapitalization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AXeniaandRingroad.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AXeniaandRingroad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AYoungPhysicist.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AYoungPhysicist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/AkString.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/AkString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/BAirport.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/BAirport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/BBorze.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/BBorze.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/BPashmakandFlowers.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/BPashmakandFlowers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/BPresentfromLena.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/BPresentfromLena.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/BQueueAtTheSchool.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/BQueueAtTheSchool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/BSale.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeforces/BSale.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/AddBinary67.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/AddBinary67.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/BinaryTreePaths257.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/BinaryTreePaths257.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/ExcelSheetColumnNumber171.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/ExcelSheetColumnNumber171.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/FindTheDifference389.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/FindTheDifference389.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/FindTheIndexOfTheFirstOccurrenceInAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/FindTheIndexOfTheFirstOccurrenceInAString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/FirstUniqueCharacterInAString387.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/FirstUniqueCharacterInAString387.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/IsomorphicStrings205.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/IsomorphicStrings205.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/LengthOfLastWord58.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/LengthOfLastWord58.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/LongestCommonPrefix14.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/LongestCommonPrefix14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/RansomNote383.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/RansomNote383.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/ReverseString344.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/ReverseString344.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/ReverseVowelsOfAString345.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/ReverseVowelsOfAString345.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/RomanToInteger13.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/RomanToInteger13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/TwoSum1.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/TwoSum1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/ValidAnagram242.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/ValidAnagram242.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/ValidPalindrome125.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/ValidPalindrome125.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/ValidParentheses20.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/ValidParentheses20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/WordPattern290.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/WordPattern290.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProblemSolving.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ProblemSolving.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,14 +59,15 @@
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.leetcode.FindTheDifference389">
+  <component name="RunManager" selected="Application.IsSubsequence392">
     <configuration name="FindTheDifference389" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.FindTheDifference389" />
       <module name="ProblemSolving" />
@@ -174,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RansomNote383" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.RansomNote383" />
+    <configuration name="IsSubsequence392" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.IsSubsequence392" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -187,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordPattern290" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.WordPattern290" />
+    <configuration name="RansomNote383" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.RansomNote383" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -224,19 +144,15 @@
     </configuration>
     <list>
       <item itemvalue="Application.leetcode.RomanToInteger13" />
-      <item itemvalue="Application.CodeForces.test" />
-      <item itemvalue="Application.leetcode.FindTheDifference389" />
-      <item itemvalue="Application.leetcode.FirstUniqueCharacterInAString387" />
-      <item itemvalue="Application.leetcode.RansomNote383" />
-      <item itemvalue="Application.leetcode.WordPattern290" />
+      <item itemvalue="Application.FindTheDifference389" />
+      <item itemvalue="Application.FirstUniqueCharacterInAString387" />
+      <item itemvalue="Application.RansomNote383" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.IsSubsequence392" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.leetcode.FindTheDifference389" />
-        <item itemvalue="Application.leetcode.FirstUniqueCharacterInAString387" />
-        <item itemvalue="Application.leetcode.RansomNote383" />
-        <item itemvalue="Application.CodeForces.test" />
-        <item itemvalue="Application.leetcode.WordPattern290" />
+        <item itemvalue="Application.IsSubsequence392" />
       </list>
     </recent_temporary>
   </component>
@@ -354,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692742647193</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="New Solutions">
+      <created>1692823895681</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1692823895681</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -372,7 +295,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="files" />
     <MESSAGE value="New Solutions on LeetCode" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Solutions on LeetCode" />
+    <MESSAGE value="New Solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Solutions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
